@@ -11,6 +11,9 @@ Inventory Tweaks,
 Ex Compressum,
 Morpheus,
 Ex Nihilo Creatio,
-p455w0rds (/dank/null dependency).
+p455w0rds (/dank/null dependency),
+Extra Utilities 2,
+Dark Utilities,
+Bookshelf.
 
 Honestly, if you're trying to play the Mogotech modpack on my server it means I know you. If you have any issues just reach out to me on the Refugee Gamers discord.
