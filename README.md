@@ -16,4 +16,6 @@ Extra Utilities 2,
 Dark Utilities,
 Bookshelf.
 
+April 24, 2020 - Removed buildcraft. Added Mekanism, Mekanism Generators, Mekanism Tools.
+
 Honestly, if you're trying to play the Mogotech modpack on my server it means I know you. If you have any issues just reach out to me on the Refugee Gamers discord.
